@@ -38,7 +38,7 @@
     <node.version>10.13.0</node.version>
     <npm.version>6.14.4</npm.version>
     <hamcrest.version>2.2</hamcrest.version>
-    <mockito.version>4.7.0</mockito.version>
+    <mockito.version>5.1.1</mockito.version>
     <jacoco.version>0.8.6</jacoco.version>
     <jacoco.haltOnFailure>false</jacoco.haltOnFailure>
     <jacoco.line.coverage>0.70</jacoco.line.coverage>
